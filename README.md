@@ -1,1 +1,1 @@
-![countdown-timer](https://github.com/K-Zenigata/Countdown-Timer-Raylib/assets/114846454/76eae91a-f4ec-4c98-a7a5-f2d26380014c)
+![countdown-timer](https://github.com/K-Zenigata/Countdown-Timer-Raylib/assets/114846454/7981b943-a789-4b73-b931-a4691321f3ec)
